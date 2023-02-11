@@ -2,7 +2,7 @@
 ### I am Png Yi Wei Jonas
 
 <a href = "https://jonaspng.github.io/cv2/">
-    <img alt="Website" src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fjonaspng.github.io%2Fcv2%2F">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjonaspng.vercel.app%2F">
 </a>
 
 ## About Me
@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-<a href="https://jonaspng.github.io/cv2/">
-    <img align="left" alt="jonaspng.github.io/cv2/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />    
+<a href="https://jonaspng.vercel.app/">
+    <img align="left" alt="jonaspng.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />    
 </a>
 <a href="https://www.linkedin.com/in/png-yi-wei-jonas-836a4a206">
     <img align="left" alt="JonasPng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />    
