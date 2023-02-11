@@ -1,7 +1,7 @@
 ### Hello World! 👋
 ### I am Png Yi Wei Jonas
 
-<a href = "https://jonaspng.github.io/cv2/">
+<a href = "https://jonaspng.vercel.app/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjonaspng.vercel.app%2F">
 </a>
 
