@@ -7,7 +7,7 @@
 
 ## About Me
 
-- Computer Science Undergraduate @ National University of Singapore ([NUS](https://www.nus.edu.sg/)) 
+- Bachelor of Computing (Computer Science) @ National University of Singapore ([NUS](https://www.nus.edu.sg/)) 
 - Ex Freelance Coding Instructor @ Saturday Kids
 
 ### Connect with me:
