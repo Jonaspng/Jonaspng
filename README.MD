@@ -44,6 +44,6 @@
 <br />
 
 ### GitHub Status
-![Jonas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonaspng&count_private=true&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonaspng&theme=dark&show_icons=true](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaspng&langs_count=8&layout=compact&hide=Mathematica,HLSL,GLSL&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaspng)](https://github.com/anuraghazra/github-readme-stats)
